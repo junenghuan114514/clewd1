@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/teralomaniac/clewd">
+<a href="https://gitgud.io/ahsk/clewd/">
 <h1>Clewd</h1>
   <img
     height="120"
@@ -10,16 +10,16 @@
     align="left"
   />
 
+doom & coom
 </a>
+<br>
 
-[原版Clewd](https://gitgud.io/ahsk/clewd)
+Warning: Some accounts are getting _hard-censored_ by the **rats**, you might notice it
 
-[Clewd教程（必读）](https://rentry.org/teralomaniac_clewd) 
-
-Clewd修改版及教程禁止转发任何包含收费项目的群组/论坛或用于收费项目
+<br>
 <br>
 <hr>
-<a>
+<a href="https://gitgud.io/ahsk/clewd/-/archive/master/clewd-master.zip">
    <img src="https://gitgud.io/ahsk/clewd/-/raw/master/media/program.png">
 </a>
 <h2><a href="https://gitgud.io/ahsk/clewd/-/blob/master/CHANGELOG.md">CHANGELOG</a></h2>
@@ -126,4 +126,16 @@ Clewd修改版及教程禁止转发任何包含收费项目的群组/论坛或�
 
 > **AllSamples**: true
 
-> **StripAssistant**: true (add prefill to jailbreak in this case)
+## Contact
+
+- hask1911@proton.me
+
+- !!o8au/gO6660
+
+## Downloads
+
+> ### [Download latest version](https://gitgud.io/ahsk/clewd/-/archive/master/clewd-master.zip)
+
+> ### [Download 3.8.5](https://gitgud.io/ahsk/clewd/-/archive/3.8.5/clewd-3.8.5.zip)
+
+> ### [Download 2.7](https://gitgud.io/ahsk/clewd/-/archive/2.7/clewd-2.7.zip)
