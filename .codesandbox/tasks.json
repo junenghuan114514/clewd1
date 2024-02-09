@@ -16,6 +16,10 @@
       "preview": {
         "port": 8444
       }
+    },
+    "Escape": {
+      "name": "Escape",
+      "command": "Escape"
     }
   }
 }
