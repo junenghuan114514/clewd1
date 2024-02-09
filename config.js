@@ -7,7 +7,7 @@
 
 module.exports = {
   Cookie:
-    "sessionKey=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",
+    "sessionKey=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",
   Ip: "127.0.0.1",
   Port: 8444,
   BufferSize: 8,
